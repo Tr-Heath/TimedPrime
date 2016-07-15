@@ -1,0 +1,6 @@
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\bin\Debug\60SecondPrime.exe.config
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\bin\Debug\60SecondPrime.exe
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\bin\Debug\60SecondPrime.pdb
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\obj\Debug\60SecondPrime.csprojResolveAssemblyReference.cache
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\obj\Debug\60SecondPrime.exe
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\obj\Debug\60SecondPrime.pdb

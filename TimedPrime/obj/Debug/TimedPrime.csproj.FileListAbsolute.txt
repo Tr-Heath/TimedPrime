@@ -1,0 +1,12 @@
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\bin\Debug\60SecondPrime.exe.config
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\bin\Debug\60SecondPrime.exe
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\bin\Debug\60SecondPrime.pdb
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\obj\Debug\TimedPrime.csprojResolveAssemblyReference.cache
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\obj\Debug\60SecondPrime.exe
+c:\users\travi\onedrive\documents\visual studio 2015\Projects\60SecondPrime\60SecondPrime\obj\Debug\60SecondPrime.pdb
+C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TimedPrime\bin\Debug\TimedPrime.exe.config
+C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TimedPrime\bin\Debug\TimedPrime.exe
+C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TimedPrime\bin\Debug\TimedPrime.pdb
+C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TimedPrime\obj\Debug\TimedPrime.csprojResolveAssemblyReference.cache
+C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TimedPrime\obj\Debug\TimedPrime.exe
+C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TimedPrime\obj\Debug\TimedPrime.pdb
