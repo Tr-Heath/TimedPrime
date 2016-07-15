@@ -6,7 +6,7 @@ Trying an experiment to see run times of my created algorithm compared to known 
 of primes found so far instead of the usual every odd number.
 I'm curious to see if the overhead of the List structure and foreach loop have much of an impact; especially considering this is 
 an algorithm meant to run for 60 seconds.
-.. code-block:: C#
+::
 
     foreach (int i in PrimesFound.Where(x => x <= boundary))
     {
@@ -20,10 +20,8 @@ an algorithm meant to run for 60 seconds.
 
 Usage
 =====
-	Open Solution with Visual Studio 2015 or run the compiled binary in \TimedPrime\bin\Debug
-
-Other
----
+	Windows is currently the only platform tested. 
+	Open Solution with Visual Studio 2015 or run the compiled binary.
 
 License
 =======
