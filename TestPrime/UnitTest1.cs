@@ -28,7 +28,13 @@ namespace TestPrime
 
             Assert.IsTrue(isPrime);
         }
-
+        [TestMethod]
+        public void ApplicationTimeOutput()
+        {
+            //Does the application output the time?
+            //Assert.IsTrue(false);
+            throw new NotImplementedException("");
+        }
         [TestMethod]
         public void PrimeCalculationStopsAt60Seconds()
         {

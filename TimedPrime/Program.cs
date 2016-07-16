@@ -2,6 +2,9 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Diagnostics;
+using System.Threading;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace _TimedPrime
 {
@@ -10,11 +13,13 @@ namespace _TimedPrime
         static void Main(string[] args)
         {
             //TODO: Allow users to specify how much time they want the method to run for.
+            //TODO: Cap the Prime Number Finder by time instead of max value.
             PrimeCalc.Greeter();
             Console.WriteLine("The largest Prime found is: {0}", PrimeCalc.FindPrimesInTime(60000));
 
             Console.WriteLine("Thank you for using. Please press any key to close.");
             Console.ReadKey();
+
         }
 
     }
@@ -34,6 +39,7 @@ namespace _TimedPrime
             int currentNumber = 5;
             bool currentNumberIsPrime;
             int boundary;
+            //TODO: Change this to be time based instead of a max value to check.
             while (currentNumber < maxvalue)
             {
                 currentNumberIsPrime = true;
@@ -62,12 +68,10 @@ namespace _TimedPrime
         public static int MyPrimeFinder(Stopwatch s, int time)
         {
             List<int> PrimesFound = new List<int> { 2, 3 };
-            
             int currentNumber = 5;
             bool currentNumberIsPrime;
             int boundary;
-            int printoutInterval = 10000;
-
+            //TODO: Change this to be time based instead of a max value to check.
             while (s.ElapsedMilliseconds < time)
             {
                 currentNumberIsPrime = true;
@@ -85,12 +89,7 @@ namespace _TimedPrime
                 if (currentNumberIsPrime)
                 {
                     PrimesFound.Add(currentNumber);
-                    if (s.ElapsedMilliseconds > printoutInterval)
-                    {
-                        Console.WriteLine("{0} Seconds remaining.", 60-(int)Math.Floor((decimal)s.ElapsedMilliseconds / 1000));
-                        Console.WriteLine(currentNumber);
-                        printoutInterval += 10000;
-                    }
+                    Console.WriteLine(currentNumber);
                 }
                 currentNumber += 2;
             }

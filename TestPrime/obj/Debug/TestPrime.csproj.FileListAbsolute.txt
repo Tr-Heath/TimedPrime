@@ -14,11 +14,3 @@ C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TestPri
 C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TestPrime\obj\Debug\TestPrime.csprojResolveAssemblyReference.cache
 C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TestPrime\obj\Debug\TestPrime.dll
 C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TestPrime\obj\Debug\TestPrime.pdb
-C:\Users\travi\Source\Repos\TimedPrime\TestPrime\bin\Debug\TestPrime.dll
-C:\Users\travi\Source\Repos\TimedPrime\TestPrime\bin\Debug\TestPrime.pdb
-C:\Users\travi\Source\Repos\TimedPrime\TestPrime\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
-C:\Users\travi\Source\Repos\TimedPrime\TestPrime\bin\Debug\TimedPrime.exe
-C:\Users\travi\Source\Repos\TimedPrime\TestPrime\bin\Debug\TimedPrime.pdb
-C:\Users\travi\Source\Repos\TimedPrime\TestPrime\obj\Debug\TestPrime.csprojResolveAssemblyReference.cache
-C:\Users\travi\Source\Repos\TimedPrime\TestPrime\obj\Debug\TestPrime.dll
-C:\Users\travi\Source\Repos\TimedPrime\TestPrime\obj\Debug\TestPrime.pdb
