@@ -10,3 +10,9 @@ C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TimedPr
 C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TimedPrime\obj\Debug\TimedPrime.csprojResolveAssemblyReference.cache
 C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TimedPrime\obj\Debug\TimedPrime.exe
 C:\Users\travi\OneDrive\Documents\Visual Studio 2015\Projects\TimedPrime\TimedPrime\obj\Debug\TimedPrime.pdb
+C:\Users\travi\Source\Repos\TimedPrime\TimedPrime\bin\Debug\TimedPrime.exe.config
+C:\Users\travi\Source\Repos\TimedPrime\TimedPrime\obj\Debug\TimedPrime.exe
+C:\Users\travi\Source\Repos\TimedPrime\TimedPrime\obj\Debug\TimedPrime.pdb
+C:\Users\travi\Source\Repos\TimedPrime\TimedPrime\bin\Debug\TimedPrime.exe
+C:\Users\travi\Source\Repos\TimedPrime\TimedPrime\bin\Debug\TimedPrime.pdb
+C:\Users\travi\Source\Repos\TimedPrime\TimedPrime\obj\Debug\TimedPrime.csprojResolveAssemblyReference.cache

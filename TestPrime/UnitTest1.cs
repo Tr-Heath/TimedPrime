@@ -1,7 +1,7 @@
 ﻿using System;
-using System.Timers;
 using _TimedPrime;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using System.Diagnostics;
 
 namespace TestPrime
 {
@@ -11,9 +11,8 @@ namespace TestPrime
         [TestMethod]
         public void IsResultPrime()
         {
-            //TODO: Use Timer instead of max value once implimented.
-            //Timer t = new Timer(60 * 1000);
-            int prime = PrimeCalc.MyPrimeFinder(1000000);
+            //edge case of one more than a number made by two primes squared.
+            int prime = PrimeCalc.MyPrimeFinder(1370);
             bool isPrime = false;
             //Is the final result Prime?
             int boundary = (int)Math.Floor(Math.Sqrt(prime));
@@ -26,9 +25,9 @@ namespace TestPrime
             {
                 if (prime % i == 0) isPrime = false;
             }
-            
+
             Assert.IsTrue(isPrime);
-    }
+        }
         [TestMethod]
         public void ApplicationTimeOutput()
         {
@@ -40,8 +39,12 @@ namespace TestPrime
         public void PrimeCalculationStopsAt60Seconds()
         {
             //Does the application always stop calculating when time is up?
-            Assert.IsTrue(false);
-            throw new NotImplementedException("");
+            Stopwatch test = new Stopwatch();
+            test.Start();
+            PrimeCalc.FindPrimesInTime(60000);
+            test.Stop();
+            Assert.IsTrue(test.ElapsedMilliseconds < 60010);
+
         }
     }
 }
